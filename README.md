@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and web designing.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on facebook <a href="https://facebook.com/Thou.Aondona">Facebook</a.
 
 <!---
 AondonaKATO/AondonaKATO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
